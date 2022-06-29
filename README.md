@@ -2,6 +2,6 @@
 
 ### This calculator converts decimal numbers to binary numbers
  
-![Binary Screenshot](imagenes/Screen1.png) 
+![Binary Screenshot](images/Screen1.png) 
  
 ## Have fun 🚀
